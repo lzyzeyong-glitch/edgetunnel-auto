@@ -1,11 +1,11 @@
-name = "edgetunnel2"
+name = "edgetunnel-auto"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "dacbe7029a924306992d26c485db6ce7"				#KV数据库id
+id = "d5d681ad295443589330d9ebca261983"				#KV数据库id
 # ...
 [vars]
 ADMIN = "Lzy19940421*"
